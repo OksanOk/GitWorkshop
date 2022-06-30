@@ -1,2 +1,7 @@
-Healthy food for doggos is very important.
-Also want to "git gud" (it's not a typo).
+| Healthy food for doggos is very important.
+| Also want to "git gud" (it's not a typo).
+|
+|
+| I went rogue as a dev, whatcha gonna do
+|
+|
